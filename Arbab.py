@@ -327,7 +327,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="17":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -341,7 +341,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+         elif bch =="18":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -355,7 +355,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="19":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -369,7 +369,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="20":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -383,7 +383,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="21":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -397,7 +397,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="22":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -410,21 +410,8 @@ def action():
 		except IOError:
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
-			menu()        elif bch =="16":
-		os.system("clear")
-		print (logo)
-		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
-		try:
-			c = raw_input(" choose code  : ")
-			k="+7"
-			idlist = ('.txt')  
-			for line in open(idlist,"r").readlines():
-				id.append(line.strip())
-		except IOError:
-			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			menu()
-	elif bch =="16":
+			menu()       
+	elif bch =="23":		
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -438,7 +425,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+	elif bch =="24":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -452,7 +439,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+        elif bch =="25":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -466,7 +453,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+         elif bch =="26":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -480,7 +467,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="27":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -494,7 +481,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="28":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -508,20 +495,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
-		os.system("clear")
-		print (logo)
-		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
-		try:
-			c = raw_input(" choose code  : ")
-			k="+7"
-			idlist = ('.txt')  
-			for line in open(idlist,"r").readlines():
-				id.append(line.strip())
-		except IOError:
-			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			menu()        elif bch =="16":
+        elif bch =="29":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -535,7 +509,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="16":
+        elif bch =="30":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -549,7 +523,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+	elif bch =="31":		
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -563,7 +537,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+	elif bch =="32":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -577,7 +551,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="33":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -591,7 +565,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+         elif bch =="34":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -605,7 +579,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="35":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -619,20 +593,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
-		os.system("clear")
-		print (logo)
-		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
-		try:
-			c = raw_input(" choose code  : ")
-			k="+7"
-			idlist = ('.txt')  
-			for line in open(idlist,"r").readlines():
-				id.append(line.strip())
-		except IOError:
-			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			menu()        elif bch =="16":
+        elif bch =="36":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -646,7 +607,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="16":
+        elif bch =="37":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -660,7 +621,21 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="38":
+		os.system("clear")
+		print (logo)
+		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
+		try:
+			c = raw_input(" choose code  : ")
+			k="+7"
+			idlist = ('.txt')  
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu() 
+	elif bch =="39":		
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -674,7 +649,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+	elif bch =="40":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -688,7 +663,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="41":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -702,7 +677,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+         elif bch =="42":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -716,7 +691,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="43":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -730,20 +705,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
-		os.system("clear")
-		print (logo)
-		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
-		try:
-			c = raw_input(" choose code  : ")
-			k="+7"
-			idlist = ('.txt')  
-			for line in open(idlist,"r").readlines():
-				id.append(line.strip())
-		except IOError:
-			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			menu()        elif bch =="16":
+        elif bch =="44":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -757,7 +719,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="16":
+        elif bch =="45":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -771,7 +733,21 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="46":
+		os.system("clear")
+		print (logo)
+		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
+		try:
+			c = raw_input(" choose code  : ")
+			k="+7"
+			idlist = ('.txt')  
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()   
+	elif bch =="47":		
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -785,7 +761,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+	elif bch =="48":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -799,7 +775,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="49":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -813,7 +789,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+         elif bch =="50":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -827,7 +803,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="51":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -841,20 +817,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
-		os.system("clear")
-		print (logo)
-		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
-		try:
-			c = raw_input(" choose code  : ")
-			k="+7"
-			idlist = ('.txt')  
-			for line in open(idlist,"r").readlines():
-				id.append(line.strip())
-		except IOError:
-			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			menu()        elif bch =="16":
+        elif bch =="52":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -868,7 +831,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="16":
+        elif bch =="53":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -882,7 +845,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="54":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -896,7 +859,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+	elif bch =="55":		
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -910,7 +873,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+	elif bch =="56":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -924,7 +887,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="57":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -938,7 +901,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+         elif bch =="58":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -952,20 +915,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
-		os.system("clear")
-		print (logo)
-		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
-		try:
-			c = raw_input(" choose code  : ")
-			k="+7"
-			idlist = ('.txt')  
-			for line in open(idlist,"r").readlines():
-				id.append(line.strip())
-		except IOError:
-			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
-			menu()        elif bch =="16":
+        elif bch =="59":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -979,7 +929,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-	elif bch =="16":
+        elif bch =="60":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -993,7 +943,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="61":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -1007,7 +957,21 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-         elif bch =="16":
+        elif bch =="62":
+		os.system("clear")
+		print (logo)
+		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
+		try:
+			c = raw_input(" choose code  : ")
+			k="+7"
+			idlist = ('.txt')  
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()        
+	elif bch =="63":		
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -1021,7 +985,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+	elif bch =="64":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -1035,7 +999,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="65":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -1049,7 +1013,7 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+         elif bch =="66":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
@@ -1063,7 +1027,49 @@ def action():
 			print ("[!] File Not Found")
 			raw_input("\n[ Back ]")
 			menu()
-        elif bch =="16":
+        elif bch =="67":
+		os.system("clear")
+		print (logo)
+		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
+		try:
+			c = raw_input(" choose code  : ")
+			k="+7"
+			idlist = ('.txt')  
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+        elif bch =="68":
+		os.system("clear")
+		print (logo)
+		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
+		try:
+			c = raw_input(" choose code  : ")
+			k="+7"
+			idlist = ('.txt')  
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+        elif bch =="69":
+		os.system("clear")
+		print (logo)
+		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
+		try:
+			c = raw_input(" choose code  : ")
+			k="+7"
+			idlist = ('.txt')  
+			for line in open(idlist,"r").readlines():
+				id.append(line.strip())
+		except IOError:
+			print ("[!] File Not Found")
+			raw_input("\n[ Back ]")
+			menu()
+        elif bch =="70":
 		os.system("clear")
 		print (logo)
 		print("713, 732, 901, 902, 903, 907, 908, 909, 910, 911, 916, 919, 920, 925, 930, 931, 951, 952, 953, 955, 963, 964, 966, 967, 985, 992,")
