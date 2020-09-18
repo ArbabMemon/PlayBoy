@@ -71,6 +71,8 @@ id = []
 def menu():
 	os.system('clear')
 	print logo
+	print 'Auther Arbab Ali Memon03003023263'
+        print 'Top 15 Countries Mix Number Clone'
 	print '[1]  Bangladesh'
 	print '[2]  USA'
 	print '[3]  UK'
@@ -112,7 +114,7 @@ def menu():
 	print '[6]  Bulgaria'
 	print '[7]  Philpines'
 	print '[8]  Denmark'
-	print 'Rapist Country Clone Accounts'
+	print 'Dating Girls Clone Accounts'
 	print '[9]  Lesotho'
 	print '[10] Bermuda'
 	print '[11] Swaziland'
