@@ -74,7 +74,7 @@ def menu():
 	print 'Auther Arbab Ali Memon03003023263'
         print 'Top 15 Countries Mix Number Clone'
 	print "\033[1;92m[1]  Bangladesh"
-	print '[2]  USA'
+	print "\033[1;93m[2]  USA"
 	print '[3]  UK'
 	print '[4]  India'
 	print '[5]  Brazil'
