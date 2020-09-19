@@ -59,16 +59,16 @@ logo='''
 \x1b[1;97m██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
 \x1b[1;95m███████║██████╔╝██████╦╝███████║██████╦╝
 \x1b[1;94m██╔══██║██╔══██╗██╔══██╗██╔══██║██╔══██╗
-\x1b[1;98m██║░░██║██║░░██║██████╦╝██║░░██║██████╦╝
+\x1b[1;91m██║░░██║██║░░██║██████╦╝██║░░██║██████╦╝
 \x1b[1;97m╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
 \x1b[1;93m--------------------------------------------------------------
-\x1b[1;94m➣  YouTube  : CYBER GANGE HIDDEN TRICKER
+\x1b[1;92m➣  YouTube  : CYBER GANGE HIDDEN TRICKER
 \x1b[1;94m➣  Facebook : ARBAB MEMON
-\x1b[1;94m➣  Note     : CYBER PLAYER R.H.S 1.0286
-\x1b[1;94m➣  Warning  : IF NOT WORK THAN USE FREE VPN
-\x1b[1;94m➣  Whatsapp : +923003023263
-\x1b[1;94m➣  Note     : Having Problem? Contact Me On Whatsapp.
-\x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;93m➣  Note     : CYBER PLAYER R.H.S 1.0286
+\x1b[1;95m➣  Warning  : IF NOT WORK THAN USE FREE VPN
+\x1b[1;96m➣  Whatsapp : +923003023263
+\x1b[1;97m➣  Note     : ANY KIND PROBLEM MSG ME.
+\x1b[1;94m➣  Disclamiar :AWAY FROM ILLIGAL WAY.
 \x1b[1;93m--------------------------------------------------------------"""
                                 '''
  
@@ -80,9 +80,9 @@ id = []
 def menu():
 	os.system('clear')
 	print logo
-	print "\033[1;97mAuther Arbab Ali Memon"
-	print "\033[1;96mContect +923003023263"
-	print "\033[1;92mMost_WellCome_Cyber_Gange"
+	print "\033[1;97mCYBER_HACKER_GLAXY"
+	print "\033[1;97mRIGHT_HANDED_PLAYER"
+	print "\033[1;97mMOST_WELCOME_DEAR"
 	print
         print 'Top 15 Countries Mix Number Clone'
 	print "\033[1;92m[1]  Bangladesh"
@@ -150,7 +150,7 @@ def menu():
  
  
 def action():
-	bch = raw_input('\n  _?????-??   ')
+	bch = raw_input('\n  ENTER HERE ANY CODE   ')
 	if bch =='':
 		print '[!] Fill in correctly'
 		action()
