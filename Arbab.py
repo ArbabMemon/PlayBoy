@@ -71,7 +71,10 @@ id = []
 def menu():
 	os.system('clear')
 	print logo
-	print 'Auther Arbab Ali Memon03003023263'
+	print "\033[1;97mAuther Arbab Ali Memon"
+	print "\033[1;96mContect +923003023263"
+	print "\033[1;92mMost_WellCome_Cyber_Gange"
+	print
         print 'Top 15 Countries Mix Number Clone'
 	print "\033[1;92m[1]  Bangladesh"
 	print '[2]  USA'
@@ -88,7 +91,8 @@ def menu():
 	print '[13] Iran'
 	print '[14] Iraq'
 	print '[15] Saudi Arabia'
-	print "\033[1;93mGirls Chatting Numbers Clone Fb"
+	print
+	print "\033[1;93mVerified Ids Numbers Clone Fb"
 	print '[16] Russia'
 	print '[17]  Sudan'
 	print '[18]  Germany'
@@ -99,13 +103,15 @@ def menu():
 	print '[23]  Thiland'
 	print '[24]  Afghanistan'
 	print '[25]  Turkey'
+	print
 	print "\033[1;94mOld Facebook Account Cloner"
 	print '[26]  England'
 	print '[27] Nepal'
 	print '[28] Bhootan'
 	print '[29] Kazkistsn'
-	print '[30] Switzerland'
-	print "\033[1;95mGirls Number Clone Accounts"
+	print '[30] Switzerland
+	print
+	print "\033[1;95mIds Just For Login Clone Accounts"
 	print '[31] Colombia'
 	print '[32] Argentina'
 	print '[33]  Sweden'
@@ -116,8 +122,9 @@ def menu():
 	print '[38]  Bulgaria'
 	print '[39]  Philpines'
 	print '[40]  Denmark'
-	print "\033[1;96mDating Girls Clone Accounts"
-	print '[41]  Lesotho'
+	print
+	print "\033[1;96mDating Chating type Clone Accounts"
+	print '[41] Lesotho'
 	print '[42] Bermuda'
 	print '[43] Swaziland'
 	print '[44] Suriname'
