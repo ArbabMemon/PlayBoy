@@ -118,7 +118,7 @@ def menu():
 	print '[27] Nepal'
 	print '[28] Bhootan'
 	print '[29] Kazkistsn'
-	print '[30] Switzerland
+	print '[30] Switzerland'
 	print
 	print "\033[1;95mIds Just For Login Clone Accounts"
 	print '[31] Colombia'
