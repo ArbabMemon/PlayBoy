@@ -74,7 +74,7 @@ def menu():
 	print 'Auther Arbab Ali Memon03003023263'
         print 'Top 15 Countries Mix Number Clone'
 	print "\033[1;92m[1]  Bangladesh"
-	print "\033[1;93m[2]  USA"
+	print '[2]  USA'
 	print '[3]  UK'
 	print '[4]  India'
 	print '[5]  Brazil'
@@ -88,7 +88,7 @@ def menu():
 	print '[13] Iran'
 	print '[14] Iraq'
 	print '[15] Saudi Arabia'
-	print 'Girls Chatting Numbers Clone Fb'
+	print "\033[1;93mGirls Chatting Numbers Clone Fb"
 	print '[16] Russia'
 	print '[17]  Sudan'
 	print '[18]  Germany'
@@ -99,7 +99,7 @@ def menu():
 	print '[23]  Thiland'
 	print '[24]  Afghanistan'
 	print '[25]  Turkey'
-	print 'Old Facebook Account Cloner'
+	print "\033[1;94m Facebook Account Cloner"
 	print '[26]  England'
 	print '[27] Nepal'
 	print '[28] Bhootan'
