@@ -99,13 +99,13 @@ def menu():
 	print '[23]  Thiland'
 	print '[24]  Afghanistan'
 	print '[25]  Turkey'
-	print "\033[1;94m Facebook Account Cloner"
+	print "\033[1;94mOld Facebook Account Cloner"
 	print '[26]  England'
 	print '[27] Nepal'
 	print '[28] Bhootan'
 	print '[29] Kazkistsn'
 	print '[30] Switzerland'
-	print 'Girls Number Clone Accounts'
+	print "\033[1;95mGirls Number Clone Accounts"
 	print '[31] Colombia'
 	print '[32] Argentina'
 	print '[33]  Sweden'
@@ -116,7 +116,7 @@ def menu():
 	print '[38]  Bulgaria'
 	print '[39]  Philpines'
 	print '[40]  Denmark'
-	print 'Dating Girls Clone Accounts'
+	print "\033[1;96mDating Girls Clone Accounts"
 	print '[41]  Lesotho'
 	print '[42] Bermuda'
 	print '[43] Swaziland'
