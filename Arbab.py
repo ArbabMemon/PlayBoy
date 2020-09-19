@@ -55,12 +55,21 @@ def cb():
 ##### LOGO #####
 logo='''
  
---------------------------------------------------
-? Auther   : Cyber Hacker Arbab Ali Memon
-? Whatsapp No 923003023263
-? Black_Cobra Commond Will Update Once In Wk
-? Youtube Channel Cyber Gange Hidden Tricker
---------------------------------------------------
+\x1b[1;96m░█████╗░██████╗░██████╗░░█████╗░██████╗░
+\x1b[1;97m██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗
+\x1b[1;95m███████║██████╔╝██████╦╝███████║██████╦╝
+\x1b[1;94m██╔══██║██╔══██╗██╔══██╗██╔══██║██╔══██╗
+\x1b[1;98m██║░░██║██║░░██║██████╦╝██║░░██║██████╦╝
+\x1b[1;97m╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚═════╝░
+\x1b[1;93m--------------------------------------------------------------
+\x1b[1;94m➣  YouTube  : CYBER GANGE HIDDEN TRICKER
+\x1b[1;94m➣  Facebook : ARBAB MEMON
+\x1b[1;94m➣  Note     : CYBER PLAYER R.H.S 1.0286
+\x1b[1;94m➣  Warning  : IF NOT WORK THAN USE FREE VPN
+\x1b[1;94m➣  Whatsapp : +923003023263
+\x1b[1;94m➣  Note     : Having Problem? Contact Me On Whatsapp.
+\x1b[1;94m➣  Disclamiar : This Is For Educational Purpose Only.
+\x1b[1;93m--------------------------------------------------------------"""
                                 '''
  
 back = 0
