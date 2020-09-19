@@ -1162,6 +1162,10 @@ def action():
 	time.sleep(0.5)
 	psb ('[?] Please wait, process is running ...')
 	time.sleep(0.5)
+	psb ('[?] Sometimes The Number Maynot Work...')
+	time.sleep(0.5)
+	psb ('[?] If total number not work then use vpn...')
+	time.sleep(0.5)
 	psb ('[!] To Stop Process Press CTRL Then Press z')
 	time.sleep(0.5)
 	print 50*'-'
